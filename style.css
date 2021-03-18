@@ -1,0 +1,37 @@
+.bio {
+    background-color: blueviolet;
+    text-align: center;
+}
+
+h1{
+    margin: 0;
+    padding: 1px;
+
+}
+
+.container {
+    background-color: rgb(113, 116, 122);
+}
+
+body{
+
+    margin:0;
+}
+
+#bio-image{
+    float: left;
+    margin-right: 10px;
+}
+
+#contact-info{
+    float:right;
+    margin-left: 30px;
+}
+
+p{
+    text-align:justify;
+}
+
+a{
+    color: red;
+}
